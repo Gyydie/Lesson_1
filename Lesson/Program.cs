@@ -9,7 +9,7 @@ namespace Lesson
     class Program
     {
 
-        //Архипов Денис
+        ///Архипов Денис
 
         static void Main(string[] args)
         {
